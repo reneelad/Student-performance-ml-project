@@ -13,7 +13,7 @@ The dataset includes:
 * Lunch type                               
 * Test preparation course                    
 * Reading, Writing, and Math scores                    
-          
+                   
 ## Workflow                                                  
      
 ### 1. Data Exploration          

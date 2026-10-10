@@ -12,7 +12,7 @@ The dataset includes:
 * Parental level of education                                      
 * Lunch type                               
 * Test preparation course                    
-* Reading, Writing, and Math scores                    
+* Reading, Writing, and Math scores                                
                    
 ## Workflow                                                  
      

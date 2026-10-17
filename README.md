@@ -8,7 +8,7 @@ The goal of this project is to analyze factors affecting student performance and
 The dataset includes:            
 
 * Gender                               
-* Race/Ethnicity                 
+* Race/Ethnicity                    
 * Parental level of education                                      
 * Lunch type                                  
 * Test preparation course                    

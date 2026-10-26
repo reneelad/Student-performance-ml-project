@@ -23,7 +23,7 @@ The dataset includes:
         
 ### 2. Data Visualization                             
                
-* Analyzed score distributions
+* Analyzed score distributions  
 * Compared performance across categories                   
 
 ### 3. Feature Engineering

@@ -6,7 +6,7 @@ The goal of this project is to analyze factors affecting student performance and
 ## Dataset     
 
 The dataset includes:            
-
+ 
 * Gender                               
 * Race/Ethnicity                    
 * Parental level of education                                      
